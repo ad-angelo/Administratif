@@ -97,7 +97,7 @@ Au terme de ce délai de trois ans, nous pourrons reprendre contact avec vous
 pour savoir si vous souhaitez continuer à recevoir des sollicitations
 commerciales.
 
-1. Concernant les pièces d'identité :
+2. Concernant les pièces d'identité :
 
 En cas d'exercice du droit d'accès ou de rectification, les données relatives
 aux pièces d'identité pourront être conservées pendant le délai prévu à
@@ -105,7 +105,7 @@ l'article 9 du code de procédure pénale, soit un an. En cas d'exercice du droi
 d'opposition, ces données peuvent être archivées pendant le délai de
 prescription prévu par l'article 8 du code de procédure pénale, soit trois ans.
 
-1. Concernant les données relatives aux cartes bancaires :
+3. Concernant les données relatives aux cartes bancaires :
 
 Les transactions financières relatives au paiement des achats et des frais via
 le site, sont confiées à un prestataire de services de paiement qui en assure le
@@ -141,12 +141,12 @@ transaction, en archives intermédiaires, pour la durée prévue par l'article L
 de débit. Ce délai peut être étendu à 15 mois afin de prendre en compte la
 possibilité d'utilisation des cartes de paiement à débit différé.
 
-1. Concernant la gestion des listes d'opposition à recevoir de la prospection :
+4. Concernant la gestion des listes d'opposition à recevoir de la prospection :
 
 Les informations permettant de prendre en compte votre droit d'opposition sont
 conservées au minimum trois ans à compter de l'exercice du droit d'opposition.
 
-1. Concernant les statistiques de mesure d'audience :
+5. Concernant les statistiques de mesure d'audience :
 
 Les informations stockées dans le terminal des utilisateurs ou tout autre
 élément utilisé pour identifier les utilisateurs et permettant leur traçabilité
