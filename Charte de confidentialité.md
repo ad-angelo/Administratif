@@ -1,4 +1,4 @@
-**CHARTE DE CONFIDENTIALITE**
+# CHARTE DE CONFIDENTIALITE
 
 ## Définition et nature des données à caractère personnel
 
@@ -237,3 +237,5 @@ vous convient pas, vous ne devrez plus accéder au site.
 ## Entrée en vigueur
 
 La présente charte est entrée en vigueur le 01/08/2024.
+
+###### Modèles 11.100.34. Avocats Associés via Jurismatic, fournis sous licence Creative Commons BY-NC-SA 3.0 FR
