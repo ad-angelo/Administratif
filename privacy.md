@@ -79,78 +79,81 @@ ou échanges au bénéfice de tiers.
 
 1. Concernant les données relatives à la gestion de clients et prospects :
 
-Vos données à caractère personnel ne seront pas conservées au-delà de la durée
-strictement nécessaire à la gestion de notre relation commerciale avec vous.
-Toutefois, les données permettant d'établir la preuve d'un droit ou d'un
-contrat, devant être conservées au titre du respect d'une obligation légale, le
-seront pendant la durée prévue par la loi en vigueur.
+   Vos données à caractère personnel ne seront pas conservées au-delà de la
+   durée strictement nécessaire à la gestion de notre relation commerciale avec
+   vous. Toutefois, les données permettant d'établir la preuve d'un droit ou
+   d'un contrat, devant être conservées au titre du respect d'une obligation
+   légale, le seront pendant la durée prévue par la loi en vigueur.
 
-Concernant d'éventuelles opérations de prospection à destination des clients,
-leurs données pourront être conservées pendant un délai de trois ans à compter
-de la fin de la relation commerciale.
+   Concernant d'éventuelles opérations de prospection à destination des clients,
+   leurs données pourront être conservées pendant un délai de trois ans à
+   compter de la fin de la relation commerciale.
 
-Les données à caractère personnel relatives à un prospect, non client, pourront
-être conservées pendant un délai de trois ans à compter de leur collecte ou du
-dernier contact émanant du prospect.
+   Les données à caractère personnel relatives à un prospect, non client,
+   pourront être conservées pendant un délai de trois ans à compter de leur
+   collecte ou du dernier contact émanant du prospect.
 
-Au terme de ce délai de trois ans, nous pourrons reprendre contact avec vous
-pour savoir si vous souhaitez continuer à recevoir des sollicitations
-commerciales.
+   Au terme de ce délai de trois ans, nous pourrons reprendre contact avec vous
+   pour savoir si vous souhaitez continuer à recevoir des sollicitations
+   commerciales.
 
 2. Concernant les pièces d'identité :
 
-En cas d'exercice du droit d'accès ou de rectification, les données relatives
-aux pièces d'identité pourront être conservées pendant le délai prévu à
-l'article 9 du code de procédure pénale, soit un an. En cas d'exercice du droit
-d'opposition, ces données peuvent être archivées pendant le délai de
-prescription prévu par l'article 8 du code de procédure pénale, soit trois ans.
+   En cas d'exercice du droit d'accès ou de rectification, les données relatives
+   aux pièces d'identité pourront être conservées pendant le délai prévu à
+   l'article 9 du code de procédure pénale, soit un an. En cas d'exercice du
+   droit d'opposition, ces données peuvent être archivées pendant le délai de
+   prescription prévu par l'article 8 du code de procédure pénale, soit trois
+   ans.
 
 3. Concernant les données relatives aux cartes bancaires :
 
-Les transactions financières relatives au paiement des achats et des frais via
-le site, sont confiées à un prestataire de services de paiement qui en assure le
-bon déroulement et la sécurité.
+   Les transactions financières relatives au paiement des achats et des frais
+   via le site, sont confiées à un prestataire de services de paiement qui en
+   assure le bon déroulement et la sécurité.
 
-Pour les besoins des services, ce prestataire de services de paiement peut être
-amené à être destinataire de vos données à caractère personnel relatives à vos
-numéros de cartes bancaires, qu'il recueille et conserve en notre nom et pour
-notre compte.
+   Pour les besoins des services, ce prestataire de services de paiement peut
+   être amené à être destinataire de vos données à caractère personnel relatives
+   à vos numéros de cartes bancaires, qu'il recueille et conserve en notre nom
+   et pour notre compte.
 
-Nous n'avons pas accès à ces données.
+   Nous n'avons pas accès à ces données.
 
-Pour vous permettre de réaliser régulièrement des achats ou de régler les frais
-afférents sur le site, vos données relatives à vos cartes bancaires sont
-conservées pendant le temps de votre inscription sur le site et à tout le moins,
-jusqu'au moment où vous réalisez votre dernière transaction.
+   Pour vous permettre de réaliser régulièrement des achats ou de régler les
+   frais afférents sur le site, vos données relatives à vos cartes bancaires
+   sont conservées pendant le temps de votre inscription sur le site et à tout
+   le moins, jusqu'au moment où vous réalisez votre dernière transaction.
 
-En ayant coché sur le site la case expressément prévue à cet effet, vous nous
-donnez votre consentement exprès pour cette conservation.
+   En ayant coché sur le site la case expressément prévue à cet effet, vous nous
+   donnez votre consentement exprès pour cette conservation.
 
-Les données relatives au cryptogramme visuel ou CVV2, inscrit sur votre carte
-bancaire, ne sont pas stockées.
+   Les données relatives au cryptogramme visuel ou CVV2, inscrit sur votre carte
+   bancaire, ne sont pas stockées.
 
-Si vous refusez que vos données à caractère personnel relatives à vos numéros de
-cartes bancaires soient conservées dans les conditions précisées ci-dessus, nous
-ne conserverons pas ces données au-delà du temps nécessaire pour permettre la
-réalisation de la transaction.
+   Si vous refusez que vos données à caractère personnel relatives à vos numéros
+   de cartes bancaires soient conservées dans les conditions précisées
+   ci-dessus, nous ne conserverons pas ces données au-delà du temps nécessaire
+   pour permettre la réalisation de la transaction.
 
-En tout état de cause, les données relatives à celles-ci pourront être
-conservées, pour une finalité de preuve en cas d'éventuelle contestation de la
-transaction, en archives intermédiaires, pour la durée prévue par l'article L
-133-24 du Code monétaire et financier, en l'occurrence 13 mois suivant la date
-de débit. Ce délai peut être étendu à 15 mois afin de prendre en compte la
-possibilité d'utilisation des cartes de paiement à débit différé.
+   En tout état de cause, les données relatives à celles-ci pourront être
+   conservées, pour une finalité de preuve en cas d'éventuelle contestation de
+   la transaction, en archives intermédiaires, pour la durée prévue par
+   l'article L 133-24 du Code monétaire et financier, en l'occurrence 13 mois
+   suivant la date de débit. Ce délai peut être étendu à 15 mois afin de prendre
+   en compte la possibilité d'utilisation des cartes de paiement à débit
+   différé.
 
 4. Concernant la gestion des listes d'opposition à recevoir de la prospection :
 
-Les informations permettant de prendre en compte votre droit d'opposition sont
-conservées au minimum trois ans à compter de l'exercice du droit d'opposition.
+   Les informations permettant de prendre en compte votre droit d'opposition
+   sont conservées au minimum trois ans à compter de l'exercice du droit
+   d'opposition.
 
 5. Concernant les statistiques de mesure d'audience :
 
-Les informations stockées dans le terminal des utilisateurs ou tout autre
-élément utilisé pour identifier les utilisateurs et permettant leur traçabilité
-ou fréquentation ne seront pas conservées au-delà de 6 mois.
+   Les informations stockées dans le terminal des utilisateurs ou tout autre
+   élément utilisé pour identifier les utilisateurs et permettant leur
+   traçabilité ou fréquentation ne seront pas conservées au-delà de 6 mois.
 
 ## Sécurité
 
