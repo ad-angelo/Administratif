@@ -9,8 +9,8 @@
 
 <p align="center">Never miss a great deal again with Price Drop !</p>
 
-[![Applestore][Applestore]][Applestore-url]
-[![Playstore][Playstore]][Playstore-url]
+[![Applestore][Applestore-free]][Applestore-url]
+[![Playstore][Playstore-free]][Playstore-url]
 
 </div>
 
@@ -45,6 +45,9 @@ buy a new electronic device or simply waiting for the best deal on a fashion
 product, Price Drop helps you get the most out of your budget.
 
 **Download Now !**
+
+[![Applestore][Applestore]][Applestore-url]
+[![Playstore][Playstore]][Playstore-url]
 
 Join a community of savvy shoppers who save daily with Price Drop. Never miss a
 price drop again!
@@ -83,7 +86,9 @@ https://ad-angelo.github.io/#contact
 [Firecrawl-url]: https://www.firecrawl.dev
 [Chatgpt.com]: https://img.shields.io/badge/chat%20gpt-74aa9c?logo=openai&style=for-the-badge
 [Chatgpt-url]: https://chatgpt.com
-[Applestore]: https://img.shields.io/badge/apple%20store-free%20!-dodgerblue?&logo=apple&style=for-the-badge
+[Applestore]: https://img.shields.io/badge/apple%20store-%20-dodgerblue?&logo=apple&style=for-the-badge
+[Applestore-free]: https://img.shields.io/badge/apple%20store-free%20!-dodgerblue?&logo=apple&style=for-the-badge
 [Applestore-url]: https://apps.apple.com/fr/app/price-drop/id6621245639
-[Playstore]: https://img.shields.io/badge/play%20store-free%20!-springgreen?&logo=google-play&style=for-the-badge
+[Playstore]: https://img.shields.io/badge/play%20store-%20-springgreen?&logo=google-play&style=for-the-badge
+[Playstore-free]: https://img.shields.io/badge/play%20store-free%20!-springgreen?&logo=google-play&style=for-the-badge
 [Playstore-url]: https://play.google.com/store/apps/details?id=com.adangelo.priceDrop&hl=ln&gl=US
