@@ -1,7 +1,6 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/ad-angelo/price-drop">
     <img src="assets/price_drop_icon_512.png" alt="Logo" width="150" height="150">
