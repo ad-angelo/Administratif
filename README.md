@@ -72,8 +72,6 @@ https://ad-angelo.github.io/#contact
 
 [Privacy](https://ad-angelo.github.io/price-drop/en/privacy)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
