@@ -1,5 +1,7 @@
 # PRIVACY POLICY
 
+Language : [Français](https://ad-angelo.github.io/price-drop/fr/privacy)
+
 ## Definition and Nature of Personal Data
 
 When using our website, we may ask you to provide personal data about yourself.

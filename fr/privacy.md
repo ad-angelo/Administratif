@@ -1,5 +1,7 @@
 # CHARTE DE CONFIDENTIALITE
 
+Language : [English](https://ad-angelo.github.io/price-drop/en/privacy)
+
 ## Définition et nature des données à caractère personnel
 
 Lors de votre utilisation de notre site, nous pouvons être amenés à vous
