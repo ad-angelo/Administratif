@@ -1,6 +1,4 @@
-**CONDITIONS GENERALES D'UTILISATION**
-
-**DE PRICE DROP**
+# CONDITIONS GENERALES D'UTILISATION DE PRICE DROP
 
 Language : [English](https://ad-angelo.github.io/price-drop/en/terms)
 

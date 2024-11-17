@@ -1,6 +1,4 @@
-**GENERAL TERMS AND CONDITIONS OF USE**
-
-**PRICE DROP**
+# GENERAL TERMS AND CONDITIONS OF USE PRICE DROP
 
 Language : [Français](https://ad-angelo.github.io/price-drop/fr/terms)
 
