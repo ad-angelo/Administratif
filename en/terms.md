@@ -2,6 +2,8 @@
 
 **PRICE DROP**
 
+Language : [Français](https://ad-angelo.github.io/price-drop/fr/terms)
+
 ## Purpose
 
 The purpose of these general terms and conditions is to define the terms and

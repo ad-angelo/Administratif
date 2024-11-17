@@ -2,6 +2,8 @@
 
 **DE PRICE DROP**
 
+Language : [English](https://ad-angelo.github.io/price-drop/en/terms)
+
 ## Objet
 
 Les présentes conditions générales ont pour objet de définir les modalités et
