@@ -5,9 +5,9 @@
   <a href="https://github.com/ad-angelo/price-drop">
     <img src="assets/price_drop_icon_512.png" alt="Logo" width="150" height="150">
   </a>
+</div>
 
 <p align="center">Never miss a great deal again with Price Drop !</p>
-</div>
 
 [![Applestore][Applestore-free]][Applestore-url]
 [![Playstore][Playstore-free]][Playstore-url]
