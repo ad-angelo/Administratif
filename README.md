@@ -90,4 +90,4 @@ https://ad-angelo.github.io/#contact
 [Applestore-url]: https://apps.apple.com/fr/app/price-drop/id6621245639
 [Playstore]: https://img.shields.io/badge/play%20store-%20-springgreen?&logo=google-play&style=for-the-badge
 [Playstore-free]: https://img.shields.io/badge/play%20store-free%20!-springgreen?&logo=google-play&style=for-the-badge
-[Playstore-url]: https://play.google.com/store/apps/details?id=com.adangelo.priceDrop&hl=ln&gl=US
+[Playstore-url]: https://play.google.com/store/apps/details?id=com.adangelo.priceDrop
