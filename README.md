@@ -9,13 +9,12 @@
 <p align="center">Never miss a great deal again with Price Drop !</p>
 </div>
 
-<div align="center">
+<center>
 
 [![Applestore][Applestore-free]][Applestore-url]
-
 [![Playstore][Playstore-free]][Playstore-url]
 
-</div>
+</center>
 
 <!-- ABOUT THE PROJECT -->
 
