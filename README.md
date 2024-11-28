@@ -63,7 +63,7 @@ price drop again!
 
 ## Contact
 
-https://ad-angelo.github.io/#contact
+[Contact Form](https://ad-angelo.github.io/#contact)
 
 <!-- ACKNOWLEDGMENTS -->
 
